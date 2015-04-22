@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_sess" value="name:sesid;datatype:int,name:sesname;datatype:string,name:tnumin;datatype:int,name:tnumax;datatype:int" />
+	<infoitem key="UD_crs" value="name:csid;datatype:string" />
+	<infoitem key="UD_col" value="name:colid;datatype:int,name:coltitle;datatype:string" />
+	<infoitem key="UD_dept" value="name:deptid;datatype:int,name:deptname;datatype:string" />
+</info>

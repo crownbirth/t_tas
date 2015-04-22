@@ -1,0 +1,12 @@
+[03-May-2014 05:55:55 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, string given in /home/tasueded/public_html/portal/tams/admin/student/index.php on line 505
+[03-May-2014 05:57:13 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, string given in /home/tasueded/public_html/portal/tams/admin/student/index.php on line 505
+[03-May-2014 05:57:13 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, string given in /home/tasueded/public_html/portal/tams/admin/student/index.php on line 505
+[13-May-2014 08:26:27 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, string given in /home/tasueded/public_html/portal/tams/admin/student/index.php on line 505
+[13-May-2014 08:26:31 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, string given in /home/tasueded/public_html/portal/tams/admin/student/index.php on line 505
+[25-May-2014 12:12:04 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, string given in /home/tasueded/public_html/portal/tams/admin/student/index.php on line 505
+[25-May-2014 12:12:22 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, string given in /home/tasueded/public_html/portal/tams/admin/student/index.php on line 505
+[07-Jun-2014 13:46:48 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, string given in /home/tasueded/public_html/portal/tams/admin/student/index.php on line 505
+[07-Jun-2014 13:47:08 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, string given in /home/tasueded/public_html/portal/tams/admin/student/index.php on line 505
+[07-Jun-2014 13:48:15 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, string given in /home/tasueded/public_html/portal/tams/admin/student/index.php on line 505
+[07-Jun-2014 13:48:18 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, string given in /home/tasueded/public_html/portal/tams/admin/student/index.php on line 505
+[11-Jun-2014 08:59:31 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, string given in /home/tasueded/public_html/portal/tams/admin/student/index.php on line 505

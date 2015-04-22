@@ -1,0 +1,43 @@
+.sidemenu {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	color: #333;
+	font-weight: 100;
+	list-style-image: url(../../tams_ict/images/bul.gif);
+	font-style: normal;
+	text-transform: capitalize;
+	text-decoration: none;
+	list-style-position: inside;
+}
+
+.sidemenu:link {
+	text-decoration: none;
+	color: #930;
+	font-style: normal;
+	list-style-image: url(../../tams_ict/images/bul.gif);
+	list-style-position: inside;
+}
+.sidemenu:visited {
+	text-decoration: none;
+	color: #930;
+	font-style: normal;
+}
+.sidemenu:hover  {
+	color: #930;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.sidemenu:active {
+	text-decoration: none;
+	color: #930;
+	font-style: normal;
+}
+
+.headline {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	text-transform: capitalize;
+	color: #333;
+}

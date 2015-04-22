@@ -1,0 +1,13 @@
+[07-Jul-2014 02:45:23 America/Denver] PHP Fatal error:  Call to undefined function getSex() in /home/tasueded/public_html/portal/tams/prospective/viewform.php on line 228
+[07-Jul-2014 02:45:26 America/Denver] PHP Fatal error:  Call to undefined function getSex() in /home/tasueded/public_html/portal/tams/prospective/viewform.php on line 228
+[07-Jul-2014 02:45:29 America/Denver] PHP Fatal error:  Call to undefined function getSex() in /home/tasueded/public_html/portal/tams/prospective/viewform.php on line 228
+[07-Jul-2014 02:45:34 America/Denver] PHP Fatal error:  Call to undefined function getSex() in /home/tasueded/public_html/portal/tams/prospective/viewform.php on line 228
+[07-Jul-2014 02:45:47 America/Denver] PHP Fatal error:  Call to undefined function getSex() in /home/tasueded/public_html/portal/tams/prospective/viewform.php on line 228
+[08-Jul-2014 05:50:44 America/Denver] PHP Warning:  require_once(../Connections/tams.php): failed to open stream: No such file or directory in /home/tasueded/public_html/portal/tams/prospective/site-ut/index.php on line 6
+[08-Jul-2014 05:50:44 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../Connections/tams.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/portal/tams/prospective/site-ut/index.php on line 6
+[08-Jul-2014 05:58:01 America/Denver] PHP Warning:  require_once(../Connections/tams.php): failed to open stream: No such file or directory in /home/tasueded/public_html/portal/tams/prospective/site-ut/index.php on line 6
+[08-Jul-2014 05:58:01 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../Connections/tams.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/portal/tams/prospective/site-ut/index.php on line 6
+[08-Jul-2014 05:58:43 America/Denver] PHP Warning:  require_once(../Connections/tams.php): failed to open stream: No such file or directory in /home/tasueded/public_html/portal/tams/prospective/site/index.php on line 6
+[08-Jul-2014 05:58:43 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../Connections/tams.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/portal/tams/prospective/site/index.php on line 6
+[08-Jul-2014 06:21:07 America/Denver] PHP Warning:  require_once(../Connections/tams.php): failed to open stream: No such file or directory in /home/tasueded/public_html/portal/tams/prospective/site/index.php on line 6
+[08-Jul-2014 06:21:07 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../Connections/tams.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/portal/tams/prospective/site/index.php on line 6

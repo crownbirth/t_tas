@@ -1,0 +1,229 @@
+@font-face {
+    font-family: 'myfont'; /*a name to be used later*/
+    src: url('../css/TrajanPro-Bold.otf'); /*URL to font*/
+}
+
+@font-face {	
+	font-family: 'myfont2'; /*a name to be used later*/
+    src: url('../css/SEGOESC_0.ttf'); /*URL to font*/
+}
+
+
+
+body {
+	font-family: 'myfont', Arial, Helvetica, sans-serif;
+	background-color: #333;
+	padding: 0;
+	color: #000;
+}
+
+/* ~~ Element/tag selectors ~~ */
+ul, ol, dl { 
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-bottom: -10px; 
+}
+a img {
+	border: none;
+}
+
+.hh {	margin: 10px 0px -20px 0px;
+		font-size: 30px;}
+
+.handw{ font-family: 'myfont2', Arial, Helvetica, sans-serif; font-size: 16px;}
+
+.container {
+	width: 780px;
+	padding: 0 20px;
+	background-color: #FFF;
+	margin: 10px auto; /* the auto value on the sides, coupled with the width, centers the layout */
+	/* height: 1100px; */
+	min-height: 900px;
+	position: relative;
+}
+
+.containerb {
+	width: 780px;
+	padding: 60px 20px;
+	background-color: #FFF;
+	margin: 20px auto; /* the auto value on the sides, coupled with the width, centers the layout */
+	height: 920px;
+}
+
+.container2 {
+	width: 1064px;
+	padding: 5 10px;
+	background-color: #FFF;
+	margin: 0px auto; /* the auto value on the sides, coupled with the width, centers the layout */
+	/* height: 800px; */
+	min-height: 700px;
+}
+
+.content {
+	padding: 1px 0;
+	height: auto;
+	 position: relative;
+}
+.content2 {
+	padding: 1px 0;
+	height: auto;
+	 position: relative;
+	 min-height: 1100px;
+}
+
+.fltrt { 
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { 
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat {
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+.clear { clear: both; }
+
+#headwrap {
+	height: 150px;
+	z-index: 1;
+	margin: 10 auto;
+}
+.logo {
+	height: 130px;
+	width: 110px;
+	float: left;
+	padding: 0 10px;
+	margin: 14px 0px;
+}
+.passport {
+	width: 130px;
+	float: left;
+	height: 130px;
+	margin: 14px 0px;
+	background: url(../images/PS/passportborder.jpg)  no-repeat; padding-top:5px; padding-left:5px; width: 115px;"
+}
+.headings {
+	width: 500px;
+	float: left;
+	height: 150px;
+	text-align: center;
+	font-size: 16px;
+}
+
+.title{ margin: 0px;
+		padding: 0px;
+		color:#073489;
+	font-family: 'myfont', Arial, Helvetica, sans-serif;
+}
+		
+
+table.altrowstable {
+	font-family: verdana,arial,sans-serif;
+	font-size:12px;
+	color:#222;
+	border-width: 1px;
+	border-color: #073489;
+	border-collapse: collapse;
+	clear: both; 
+	width:100%
+}
+table.altrowstable th {
+	border-width: 1px;
+	padding: 6px;
+	border-style: solid;
+	border-color: #073489;
+	background-color:#dedede;
+	text-align: left;
+	
+}
+table.altrowstable td {
+	border-width: 1px;
+	padding: 10px 20px;
+	border-style: solid;
+	/*border-color: #a9c6c9;*/
+	border-color: #4286ad;
+	background-color:#fff;
+
+}
+
+table.altrowstable.handw td {
+	border-width: 1px;
+	padding: 100px 6px;
+	border-style: solid;
+	/*border-color: #a9c6c9;*/
+	border-color: #4286ad;
+}
+.subhead td {
+	border-width: 1px;
+	padding: 4px;
+	border-style: solid;
+	/*border-color: #a9c6c9;*/
+	border-color: #fff;
+	color: red;
+}
+.oddrowcolor{
+	background-color:#fafafa;
+}
+.evenrowcolor{
+	background-color:#fff;
+}
+
+.wrap{ 		}
+.wrap2{ clear: both; margin: 12px auto; 	}
+		
+.half{ width: 44%;
+		margin: 20px;
+		float: left;}
+		
+.clear { clear: both; }
+
+.red { color: #CC0000; }
+.green { color: #599414; }
+.lGrey { color: #808080; }
+.blue { color: #003399; }
+.orange { color: #c75510; }
+
+
+.title2{text-align: center;  height: 20px; width: 100%; float: left; margin-top: -10px; margin-bottom: 20px;}
+
+#pattern-style-a
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	width: 480px;
+	text-align: left;
+	border-collapse: collapse;
+	background: url('../images/table-images/pattern.png');
+}
+#pattern-style-a thead tr
+{
+	background: url('../images/table-images/pattern-head.png');
+}
+#pattern-style-a th
+{
+	font-size: 13px;
+	font-weight: normal;
+	padding: 8px;
+	border: 1px solid #4286ad;
+	color: #222;
+}
+#pattern-style-a td
+{
+	padding: 4px 6px; 
+	border: 1px solid #4286ad;
+	color: #111;
+	border-top: 1px solid transparent;
+}
+#pattern-style-a tbody tr:hover td
+{
+	color: #339;
+	background: #fff;
+}
+

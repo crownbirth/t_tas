@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rscolname" value="name:colid;datatype:int,name:colname;datatype:string,name:colcode;datatype:string,name:coltitle;datatype:string,name:remark;datatype:blob,name:page_up;datatype:blob,name:page_down;datatype:blob" />
+	<infoitem key="UD_rscol" value="name:colid;datatype:int,name:colname;datatype:string,name:colcode;datatype:string,name:coltitle;datatype:string,name:remark;datatype:blob,name:page_up;datatype:blob,name:page_down;datatype:blob" />
+</info>

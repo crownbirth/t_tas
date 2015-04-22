@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_sess" value="name:sesid;datatype:int,name:sesname;datatype:string,name:tnumin;datatype:int,name:tnumax;datatype:int" />
+</info>

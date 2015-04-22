@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsses" value="name:sesid;datatype:int,name:sesname;datatype:string,name:tnumin;datatype:int,name:tnumax;datatype:int" />
+	<infoitem key="UD_rsstnm" value="name:fname;datatype:string,name:lname;datatype:string,name:mname;datatype:string" />
+	<infoitem key="UD_rsdisp" value="name:disid;datatype:int,name:sesid;datatype:int,name:stdid;datatype:string,name:status;datatype:string,name:tearm;datatype:string,name:logout;datatype:string,name:login;datatype:string" />
+	<infoitem key="UD_rsname" value="name:fname;datatype:string,name:lname;datatype:string,name:mname;datatype:string" />
+	<infoitem key="UD_sesnam" value="name:sesname;datatype:string" />
+</info>

@@ -1,0 +1,113 @@
+h1 {
+	border-bottom-width: 4px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	color: #930;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+}
+h2 {
+	font-weight: normal;
+}
+.inform {
+	background-color: #D5FFD5;
+	border: 1px solid #060;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background-image: url(../../tams_ict/admin/news/images/accept.png);
+	background-repeat: no-repeat;
+	background-position: 10px center;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 35px;
+}
+.error {
+	background-color: #FFCACA;
+	border: 1px solid #900;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background-image: url(../../tams_ict/admin/news/images/error.png);
+	background-repeat: no-repeat;
+	background-position: 10px center;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 35px;
+}
+#newstable {
+	background-color: #CCC;
+	border: 1px solid #999;
+}
+#newstable tr td {
+	padding: 10px;
+	background-color: #FFF;
+}
+label {
+	float: left;
+	width: 150px;
+}
+hr {
+	background-color: #FFF;
+	padding: 0px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-top-width: 1px;
+	border-top-style: dotted;
+	border-top-color: #999;
+	clear: both;
+	height: 0px;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#headerbox {
+	height: 35px;
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#headerbox li {
+	float: left;
+	border-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #E7CFCF;
+	border-right-color: #900;
+	border-bottom-color: #900;
+	border-left-color: #E7CFCF;
+	margin-right: 10px;
+	background-color: #AF5F5F;
+	padding-top: 2px;
+	padding-right: 4px;
+	padding-bottom: 2px;
+	padding-left: 4px;
+}
+#headerbox li a {
+	color: #FFF;
+	text-decoration: none;
+}
+#footer {
+	font-size: 0.8em;
+	color: #999;
+	text-align: center;
+	padding: 5px;
+	border-top-width: 1px;
+	border-top-style: dotted;
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	margin-top: 5px;
+}
+input, textarea {
+	font-family: Arial, Helvetica, sans-serif;
+}

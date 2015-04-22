@@ -1,0 +1,31 @@
+.foot {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #333;
+	font-weight: 100;
+	font-style: normal;
+}
+.foot:link {
+	text-decoration: none;
+	color: #930;
+	font-style: normal;
+}
+.foot:visited {
+	text-decoration: none;
+	color: #930;
+	font-style: normal;
+}
+.foot:hover {
+	text-decoration: underline;
+	color: #930;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: capitalize;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: normal;
+}
+.foot:active {
+	text-decoration: none;
+	color: #930;
+}

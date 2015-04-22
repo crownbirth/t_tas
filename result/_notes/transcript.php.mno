@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rssess" value="name:sesid;datatype:int,name:sesname;datatype:string,name:tnumin;datatype:int,name:tnumax;datatype:int" />
+	<infoitem key="UD_stud" value="name:progid;datatype:int,name:colid;datatype:int,name:deptid;datatype:int,name:fname;datatype:string,name:lname;datatype:string,name:level;datatype:int" />
+	<infoitem key="UD_studs" value="name:stdid;datatype:string,name:fname;datatype:string,name:lname;datatype:string" />
+	<infoitem key="UD_attn" value="name:sesname;datatype:string" />
+	<infoitem key="UD_rsrefs" value="name:csid;datatype:string" />
+</info>

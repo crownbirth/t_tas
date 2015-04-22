@@ -1,0 +1,48 @@
+[22-Sep-2014 01:35:52 America/Denver] PHP Fatal error:  Call to undefined function ucword() in /home/tasueded/public_html/portal/tams/ict/result/index.php on line 164
+[22-Sep-2014 01:35:57 America/Denver] PHP Fatal error:  Call to undefined function ucword() in /home/tasueded/public_html/portal/tams/ict/result/index.php on line 164
+[22-Sep-2014 01:39:53 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/tasueded/public_html/portal/tams/ict/result/index.php on line 164
+[22-Sep-2014 01:39:55 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/tasueded/public_html/portal/tams/ict/result/index.php on line 164
+[22-Sep-2014 01:48:01 America/Denver] PHP Parse error:  syntax error, unexpected 'GetSQLValueString' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 107
+[22-Sep-2014 01:49:46 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[22-Sep-2014 01:49:49 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[22-Sep-2014 01:50:29 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[22-Sep-2014 01:50:44 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[22-Sep-2014 01:53:17 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[22-Sep-2014 01:53:49 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[22-Sep-2014 01:59:21 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[22-Sep-2014 01:59:35 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[22-Sep-2014 02:02:23 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[22-Sep-2014 02:04:56 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[22-Sep-2014 02:04:58 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[22-Sep-2014 02:05:00 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[22-Sep-2014 02:12:04 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 139
+[22-Sep-2014 02:12:09 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 139
+[22-Sep-2014 02:13:07 America/Denver] PHP Parse error:  syntax error, unexpected 'style' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 147
+[22-Sep-2014 02:13:12 America/Denver] PHP Parse error:  syntax error, unexpected 'style' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 147
+[22-Sep-2014 02:13:57 America/Denver] PHP Parse error:  syntax error, unexpected 'style' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 142
+[22-Sep-2014 02:14:00 America/Denver] PHP Parse error:  syntax error, unexpected 'style' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 142
+[22-Sep-2014 02:16:26 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 136
+[22-Sep-2014 02:16:28 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 136
+[22-Sep-2014 02:40:09 America/Denver] PHP Parse error:  syntax error, unexpected ''.'' (T_CONSTANT_ENCAPSED_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 141
+[22-Sep-2014 02:40:51 America/Denver] PHP Parse error:  syntax error, unexpected ''  '' (T_CONSTANT_ENCAPSED_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 141
+[22-Sep-2014 02:41:28 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 141
+[22-Sep-2014 02:41:36 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 141
+[21-Oct-2014 05:36:48 America/Denver] PHP Parse error:  syntax error, unexpected 'ORDER' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 114
+[21-Oct-2014 05:36:53 America/Denver] PHP Parse error:  syntax error, unexpected 'ORDER' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 114
+[21-Oct-2014 05:37:47 America/Denver] PHP Parse error:  syntax error, unexpected 'BY' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 114
+[21-Oct-2014 05:37:52 America/Denver] PHP Parse error:  syntax error, unexpected 'BY' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 114
+[12-Jan-2015 06:43:51 America/Denver] PHP Parse error:  syntax error, unexpected 'APPROVED' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[12-Jan-2015 06:43:56 America/Denver] PHP Parse error:  syntax error, unexpected 'APPROVED' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[12-Jan-2015 06:46:52 America/Denver] PHP Parse error:  syntax error, unexpected 'APPROVED' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[12-Jan-2015 06:49:03 America/Denver] PHP Parse error:  syntax error, unexpected 'APPROVED' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[12-Jan-2015 06:49:49 America/Denver] PHP Parse error:  syntax error, unexpected 'APPROVED' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[12-Jan-2015 07:01:39 America/Denver] PHP Parse error:  syntax error, unexpected 'APPROVED' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[12-Jan-2015 07:02:03 America/Denver] PHP Parse error:  syntax error, unexpected 'APPROVED' (T_STRING) in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 109
+[12-Jan-2015 07:11:00 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 108
+[12-Jan-2015 07:14:21 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 108
+[12-Jan-2015 07:14:24 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 108
+[12-Jan-2015 07:22:42 America/Denver] PHP Fatal error:  Call to undefined function WriteHTML() in /home/tasueded/public_html/portal/tams/ict/result/printresult.php on line 188
+[12-Jan-2015 08:16:31 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tasueded/public_html/portal/tams/ict/result/printresult.php:117) in /home/tasueded/public_html/portal/tams/mpdf/mpdf.php on line 7447
+[12-Jan-2015 08:16:31 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tasueded/public_html/portal/tams/ict/result/printresult.php:117) in /home/tasueded/public_html/portal/tams/mpdf/mpdf.php on line 1736
+[12-Jan-2015 08:16:40 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tasueded/public_html/portal/tams/ict/result/printresult.php:117) in /home/tasueded/public_html/portal/tams/mpdf/mpdf.php on line 7447
+[12-Jan-2015 08:16:40 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tasueded/public_html/portal/tams/ict/result/printresult.php:117) in /home/tasueded/public_html/portal/tams/mpdf/mpdf.php on line 1736

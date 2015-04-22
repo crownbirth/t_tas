@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rslect" value="name:lectid;datatype:string,name:title;datatype:string,name:fname;datatype:string,name:lname;datatype:string,name:deptid;datatype:int,name:colid;datatype:int" />
+</info>

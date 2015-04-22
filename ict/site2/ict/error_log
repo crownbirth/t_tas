@@ -1,0 +1,4 @@
+[24-Nov-2014 06:00:19 America/Denver] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/tasueded/public_html/portal/graduands/site2/ict/print_list_gradfee.php on line 7
+[24-Nov-2014 06:00:19 America/Denver] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: YES) in /home/tasueded/public_html/portal/graduands/site2/ict/print_list_gradfee.php on line 7
+[24-Nov-2014 07:07:30 America/Denver] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/tasueded/public_html/portal/tams/ict/site2/ict/print_list_gradfee.php on line 7
+[24-Nov-2014 07:07:30 America/Denver] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: YES) in /home/tasueded/public_html/portal/tams/ict/site2/ict/print_list_gradfee.php on line 7

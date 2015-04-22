@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_prog" value="name:progid;datatype:int,name:progname;datatype:string" />
+	<infoitem key="UD_sess" value="name:sesid;datatype:int,name:sesname;datatype:string,name:tnumin;datatype:int,name:tnumax;datatype:int,name:status;datatype:string,name:registration;datatype:string" />
+	<infoitem key="UD_rsstate" value="name:stid;datatype:int,name:stname;datatype:string" />
+	<infoitem key="UD_col" value="name:colid;datatype:int,name:coltitle;datatype:string" />
+</info>

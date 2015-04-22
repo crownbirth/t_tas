@@ -1,0 +1,2 @@
+[08-Jul-2014 06:22:06 America/Denver] PHP Warning:  require_once(../../Connections/tams.php): failed to open stream: No such file or directory in /home/tasueded/public_html/portal/tams/prospective/site/prospective_mgt/index.php on line 6
+[08-Jul-2014 06:22:06 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../../Connections/tams.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/portal/tams/prospective/site/prospective_mgt/index.php on line 6

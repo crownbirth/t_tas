@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_prog" value="name:progid;datatype:int,name:progname;datatype:string" />
+	<infoitem key="UD_rsstate" value="name:stid;datatype:int,name:stname;datatype:string" />
+	<infoitem key="UD_sess" value="name:sesid;datatype:int,name:sesname;datatype:string,name:tnumin;datatype:int,name:tnumax;datatype:int,name:status;datatype:string,name:registration;datatype:string" />
+	<infoitem key="UD_editstud" value="name:stdid;datatype:string,name:lname;datatype:string,name:fname;datatype:string,name:mname;datatype:string,name:progid;datatype:int,name:phone;datatype:string,name:email;datatype:string,name:addr;datatype:blob,name:sex;datatype:string,name:dob;datatype:date,name:sesid;datatype:int,name:disciplinary;datatype:string,name:level;datatype:int,name:admode;datatype:string,name:password;datatype:string,name:status;datatype:string,name:access;datatype:int,name:credit;datatype:int,name:profile;datatype:blob,name:payment;datatype:string,name:stid;datatype:int" />
+</info>

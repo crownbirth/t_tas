@@ -1,0 +1,37 @@
+.top {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	color: #FFF;
+	font-weight: 100;
+}
+.top:link {
+	text-decoration: none;
+	color: #000;
+}
+.top:visited {
+	text-decoration: none;
+	color: #FFF;
+}
+.top:hover {
+	text-decoration: underline;
+	color: #000;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+.top:active {
+	text-decoration: none;
+	color: #030;
+}
+
+
+.ttable {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: dotted;
+	border-right-style: none;
+	border-bottom-style: dotted;
+	border-left-style: none;
+	border-top-color: #C90;
+	border-bottom-color: #C90;
+}

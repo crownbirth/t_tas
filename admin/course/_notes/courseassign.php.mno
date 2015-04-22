@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_college" value="name:colid;datatype:int,name:coltitle;datatype:string" />
+	<infoitem key="UD_dept" value="name:deptid;datatype:int,name:deptname;datatype:string" />
+	<infoitem key="UD_prog" value="name:progid;datatype:int,name:progname;datatype:string,name:deptid;datatype:int,name:duration;datatype:int,name:progcode;datatype:string,name:remark;datatype:blob,name:page_up;datatype:blob,name:page_down;datatype:blob" />
+</info>
